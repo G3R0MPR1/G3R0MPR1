@@ -1,5 +1,5 @@
 ## Q onda, soy geronimo y aspiro a ser un buen programador 
-## --------------------------------------------------------
+
 ## Tambien manejo con facilidad los siguiente codigos
 
 <!--
