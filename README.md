@@ -1,4 +1,4 @@
-## Hi there 👋
+## Q onda, soy geronimo y aspiro a ser un buen programador
 
 <!--
 **G3R0MPR1/G3R0MPR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
